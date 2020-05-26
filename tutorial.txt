@@ -1,0 +1,10 @@
+Eksekusi Shodan
+
+shodan command line interface (CLI)
+
+easy_install shodan
+easy_install -U shodan
+Login https://www.shodan.io
+shodan init YOUR_API_KEY
+
+shodan host Proxy_Target
